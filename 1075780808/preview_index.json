@@ -1,7 +1,7 @@
 {
   "qq_number": "2098653515",
   "group_number": "1075780808",
-  "updated_at": "2026-06-05T00:55:42+00:00",
+  "updated_at": "2026-06-05T00:59:16+00:00",
   "skins": [
     {
       "name": "猪大肠の禁止焦虑呀",
@@ -26,6 +26,12 @@
       "file": "猪大肠の不二家.bds",
       "thumb": "猪大肠の不二家.bds_py_26_light_thumb.png",
       "full": "猪大肠の不二家.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "猪大肠の童屿小镇",
+      "file": "猪大肠の童屿小镇.bdi",
+      "thumb": "猪大肠の童屿小镇.bdi_py_26_light_thumb.png",
+      "full": "猪大肠の童屿小镇.bdi_py_26_light_thumb.png"
     }
   ]
 }
