@@ -1,19 +1,19 @@
 {
   "qq_number": "2098653515",
   "group_number": "820059692",
-  "updated_at": "2026-06-09T14:25:24+00:00",
+  "updated_at": "2026-06-09T14:25:40+00:00",
   "skins": [
-    {
-      "name": "猪大肠の好好学习呀",
-      "file": "猪大肠の好好学习呀.bdi",
-      "thumb": "猪大肠の好好学习呀.bdi_py_26_light_thumb.png",
-      "full": "猪大肠の好好学习呀.bdi_py_26_light_thumb.png"
-    },
     {
       "name": "猪大肠の好好学习",
       "file": "猪大肠の好好学习呀.bds",
       "thumb": "猪大肠の好好学习呀.bds_py_26_light_thumb.png",
       "full": "猪大肠の好好学习呀.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "猪大肠の好好学习呀",
+      "file": "猪大肠の好好学习呀.bdi",
+      "thumb": "猪大肠の好好学习呀.bdi_py_26_light_thumb.png",
+      "full": "猪大肠の好好学习呀.bdi_py_26_light_thumb.png"
     }
   ]
 }
