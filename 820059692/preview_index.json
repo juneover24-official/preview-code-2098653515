@@ -1,7 +1,7 @@
 {
   "qq_number": "2098653515",
   "group_number": "820059692",
-  "updated_at": "2026-06-22T15:32:40+00:00",
+  "updated_at": "2026-06-23T18:31:54+00:00",
   "skins": [
     {
       "name": "猪大肠の好好学习呀",
@@ -29,15 +29,15 @@
     },
     {
       "name": "猪大肠の幸福生活",
-      "file": "猪大肠の幸福生活.bdi",
-      "thumb": "猪大肠の幸福生活.bdi_py_26_light_thumb.png",
-      "full": "猪大肠の幸福生活.bdi_py_26_light_thumb.png"
-    },
-    {
-      "name": "猪大肠の幸福生活",
       "file": "猪大肠の幸福生活.bds",
       "thumb": "猪大肠の幸福生活.bds_py_26_light_thumb.png",
       "full": "猪大肠の幸福生活.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "猪大肠の幸福生活",
+      "file": "猪大肠の幸福生活.bdi",
+      "thumb": "猪大肠の幸福生活.bdi_py_26_light_thumb.png",
+      "full": "猪大肠の幸福生活.bdi_py_26_light_thumb.png"
     }
   ]
 }
