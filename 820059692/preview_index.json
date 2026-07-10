@@ -1,7 +1,7 @@
 {
   "qq_number": "2098653515",
   "group_number": "820059692",
-  "updated_at": "2026-07-10T11:18:57+00:00",
+  "updated_at": "2026-07-10T14:26:49+00:00",
   "skins": [
     {
       "name": "猪大肠の好好学习呀",
@@ -80,6 +80,12 @@
       "file": "猪大肠の猫咪面包屋.bds",
       "thumb": "猪大肠の猫咪面包屋.bds_py_26_light_thumb.png",
       "full": "猪大肠の猫咪面包屋.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "猪大肠の猫咪面包屋",
+      "file": "猪大肠の猫咪面包屋.bdi",
+      "thumb": "猪大肠の猫咪面包屋.bdi_py_26_light_thumb.png",
+      "full": "猪大肠の猫咪面包屋.bdi_py_26_light_thumb.png"
     }
   ]
 }
