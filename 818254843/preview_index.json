@@ -1,7 +1,7 @@
 {
   "qq_number": "2098653515",
   "group_number": "818254843",
-  "updated_at": "2026-07-12T04:16:30+00:00",
+  "updated_at": "2026-07-12T14:48:32+00:00",
   "skins": [
     {
       "name": "猪大肠の城市日记",
@@ -80,6 +80,12 @@
       "file": "猪大肠の一日农趣体验官无漂浮-无背景.bdi",
       "thumb": "猪大肠の一日农趣体验官无漂浮-无背景.bdi_py_26_light_thumb.png",
       "full": "猪大肠の一日农趣体验官无漂浮-无背景.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "猪大肠の叮咚时光小铺",
+      "file": "猪大肠の叮咚时光小铺呀.bdi",
+      "thumb": "猪大肠の叮咚时光小铺呀.bdi_py_26_light_thumb.png",
+      "full": "猪大肠の叮咚时光小铺呀.bdi_py_26_light_thumb.png"
     }
   ]
 }
