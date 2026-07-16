@@ -1,7 +1,7 @@
 {
   "qq_number": "2098653515",
   "group_number": "818254843",
-  "updated_at": "2026-07-15T15:38:54+00:00",
+  "updated_at": "2026-07-16T13:56:02+00:00",
   "skins": [
     {
       "name": "猪大肠の城市日记",
@@ -98,6 +98,12 @@
       "file": "猪大肠の小兔生活.bdi",
       "thumb": "猪大肠の小兔生活.bdi_py_26_light_thumb.png",
       "full": "猪大肠の小兔生活.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "猪大肠の史努比飞行记大动销",
+      "file": "猪大肠の史努比飞行记大动销.bds",
+      "thumb": "猪大肠の史努比飞行记大动销.bds_py_26_light_thumb.png",
+      "full": "猪大肠の史努比飞行记大动销.bds_py_26_light_thumb.png"
     }
   ]
 }
