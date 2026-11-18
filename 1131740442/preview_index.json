@@ -1,7 +1,7 @@
 {
   "qq_number": "2098653515",
   "group_number": "1131740442",
-  "updated_at": "2026-11-18T16:59:52+00:00",
+  "updated_at": "2026-11-18T16:59:57+00:00",
   "skins": [
     {
       "name": "土豆の住在胡子上",
@@ -34,6 +34,12 @@
       "file": "土豆の马儿甜蜜蜜.bdi",
       "thumb": "土豆の马儿甜蜜蜜.bdi_py_26_light_thumb.png",
       "full": "土豆の马儿甜蜜蜜.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "土豆の马儿甜蜜蜜",
+      "file": "土豆の马儿甜蜜蜜.bds",
+      "thumb": "土豆の马儿甜蜜蜜.bds_py_26_light_thumb.png",
+      "full": "土豆の马儿甜蜜蜜.bds_py_26_light_thumb.png"
     }
   ]
 }
