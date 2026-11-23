@@ -1,13 +1,19 @@
 {
   "qq_number": "2098653515",
   "group_number": "594715061",
+  "updated_at": "2026-11-23T11:46:03+00:00",
   "skins": [
     {
       "name": "土豆の今日心情脆",
       "file": "土豆の今日心情脆.bdi",
       "thumb": "土豆の今日心情脆.bdi_py_26_light_thumb.png",
       "full": "土豆の今日心情脆.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "土豆の今日心情闷",
+      "file": "土豆の今日心情闷.bdi",
+      "thumb": "土豆の今日心情闷.bdi_py_26_light_thumb.png",
+      "full": "土豆の今日心情闷.bdi_py_26_light_thumb.png"
     }
-  ],
-  "updated_at": "2026-11-23T11:45:57+00:00"
+  ]
 }
