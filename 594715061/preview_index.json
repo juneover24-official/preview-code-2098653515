@@ -1,7 +1,7 @@
 {
   "qq_number": "2098653515",
   "group_number": "594715061",
-  "updated_at": "2026-11-23T11:46:11+00:00",
+  "updated_at": "2026-11-23T11:46:16+00:00",
   "skins": [
     {
       "name": "土豆の今日心情脆",
@@ -20,6 +20,12 @@
       "file": "土豆の冬日心情闷.bds",
       "thumb": "土豆の冬日心情闷.bds_py_26_light_thumb.png",
       "full": "土豆の冬日心情闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "土豆の今日心情脆",
+      "file": "土豆の今日心情脆.bds",
+      "thumb": "土豆の今日心情脆.bds_py_26_light_thumb.png",
+      "full": "土豆の今日心情脆.bds_py_26_light_thumb.png"
     }
   ]
 }
