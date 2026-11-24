@@ -1,7 +1,7 @@
 {
   "qq_number": "2098653515",
   "group_number": "594715061",
-  "updated_at": "2026-11-24T05:02:35+00:00",
+  "updated_at": "2026-11-24T05:02:41+00:00",
   "skins": [
     {
       "name": "土豆の今日心情脆",
@@ -44,6 +44,12 @@
       "file": "土豆の爱吃甜食2.bds",
       "thumb": "土豆の爱吃甜食2.bds_py_26_light_thumb.png",
       "full": "土豆の爱吃甜食2.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "土豆の爱吃甜食  音效1",
+      "file": "土豆の爱吃甜食1.bds",
+      "thumb": "土豆の爱吃甜食1.bds_py_26_light_thumb.png",
+      "full": "土豆の爱吃甜食1.bds_py_26_light_thumb.png"
     }
   ]
 }
