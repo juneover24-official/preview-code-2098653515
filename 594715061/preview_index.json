@@ -1,7 +1,7 @@
 {
   "qq_number": "2098653515",
   "group_number": "594715061",
-  "updated_at": "2026-11-26T12:27:48+00:00",
+  "updated_at": "2026-11-26T12:27:54+00:00",
   "skins": [
     {
       "name": "土豆の今日心情脆",
@@ -62,6 +62,12 @@
       "file": "土豆の居家大扫除音二.bds",
       "thumb": "土豆の居家大扫除音二.bds_py_26_light_thumb.png",
       "full": "土豆の居家大扫除音二.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "土豆の居家大扫除",
+      "file": "土豆の居家大扫除音二_2.bdi",
+      "thumb": "土豆の居家大扫除音二_2.bdi_py_26_light_thumb.png",
+      "full": "土豆の居家大扫除音二_2.bdi_py_26_light_thumb.png"
     }
   ]
 }
